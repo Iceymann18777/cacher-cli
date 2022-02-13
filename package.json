@@ -19,7 +19,7 @@
     "cryptiles": ">=4.1.2",
     "diff": ">=3.5.0",
     "dotenv": "^5.0.1",
-    "eslint": "^4.19.1",
+    "eslint": "^8.7.0",
     "globby": "^8.0.1",
     "inquirer": "^5.1.0",
     "lodash.template": ">=4.5.0",
